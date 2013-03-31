@@ -279,6 +279,7 @@ public class MainMenuActivity extends Activity {
                 editor.putInt(PreferenceConstants.PREFERENCE_LAST_VERSION, AndouKun.VERSION);
                 editor.commit();
 
+                //TODO: replace these
                 showDialog(WHATS_NEW_DIALOG);
 
                 // screen controls were added in version 14

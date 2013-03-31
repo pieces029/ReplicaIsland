@@ -12,11 +12,13 @@ Looks like he landed OK but his memory array is all smashed.  Kyle has really cr
 </string>
 
 <string name="Wanda_0_1_1_3">
-Hmm, his self-repair mechanism is still intact.  If I can just reconnect the power...
+    Hmm, his self-repair mechanism is still intact. If I can just reconnect the power…
 </string>
 
 <string name="Wanda_3_5_1_1">
-Are you feeling better Mr. Android?  Your memory is probably still scrambled, but don’t worry--it will return with time as your repair system brings the backup content out of storage.  Frankly, I think it’s amazing that you’re still moving around after taking such a powerful hit.
+    Are you feeling better Mr. Android? Your memory is probably still scrambled, but don’t worry—it
+    will return with time as your repair system brings the backup content out of storage. Frankly, I
+    think it’s amazing that you’re still moving around after taking such a powerful hit.
 </string>
 
 <string name="Wanda_3_5_1_2">
@@ -101,7 +103,7 @@ Kyle was my friend, but to you he was just an obstacle to overcome.  You probabl
 </string>
 
 <string name="Wanda_2_6_1_1">
-Hey Mr. Android, are you stuck?  Here, I’ll clear a path for you.  
+Hey Mr. Android, are you stuck?  Here, I’ll clear a path for you.
 </string>
 
 <string name="Wanda_2_6_2_1">
@@ -137,7 +139,7 @@ Kyle also got me this job.  I have to admit, I was pretty hesitant to go to work
 </string>
 
 <string name="Wanda_3_3_1_3">
-But Mr. Rokudou’s different.  I met him and even though he refuses to take off that weird mask <small>(is it zits? uncontrollable facial hair?  maybe a scar?)</small> I am convinced that he’s really trying to make the world a better place.  
+But Mr. Rokudou’s different.  I met him and even though he refuses to take off that weird mask <small>(is it zits? uncontrollable facial hair?  maybe a scar?)</small> I am convinced that he’s really trying to make the world a better place.
 </string>
 
 
@@ -151,7 +153,7 @@ He’s a criminal mastermind.  The whole businessman-with-a-heart-of-gold shtick
 </string>
 
 <string name="Wanda_4_7_1_3">
-I can’t imagine what he’ll do if he gets his hands on The Source.  He may actually believe he can use it to make the world a better place, but surely it will only be a better place for him--the rest of us will suffer.  
+I can’t imagine what he’ll do if he gets his hands on The Source.  He may actually believe he can use it to make the world a better place, but surely it will only be a better place for him--the rest of us will suffer.
 </string>
 
 <string name="Wanda_4_7_1_4">
@@ -164,7 +166,7 @@ I guess we’re actually pretty lucky nobody has found The Source so far.  I mea
 </string>
 
 <string name="Wanda_2_9_1_1">
-Despite all of the weird bugs and stuff here, I actually kind of like this island.  It’s like a theme park: just weird enough to be fun but just normal enough to pass as natural.  Kyle was telling me if we find The Source, we’ll be able to control it and make it grow whatever we want.  
+Despite all of the weird bugs and stuff here, I actually kind of like this island.  It’s like a theme park: just weird enough to be fun but just normal enough to pass as natural.  Kyle was telling me if we find The Source, we’ll be able to control it and make it grow whatever we want.
 </string>
 
 <string name="Wanda_2_9_1_2">
@@ -173,7 +175,7 @@ But a part of me doesn’t want to find it; I kind of like how this island has g
 
 
 <string name="Wanda_4_9_1_1">
-Android.  You have to make a choice.  If you don’t stop Kabocha, he’s going to transform life on this planet in ways that can’t possibly be good.  But if you help Rokudou, the world will be forced to succumb to his will.  This is a lose-lose situation.  
+Android.  You have to make a choice.  If you don’t stop Kabocha, he’s going to transform life on this planet in ways that can’t possibly be good.  But if you help Rokudou, the world will be forced to succumb to his will.  This is a lose-lose situation.
 </string>
 
 <string name="Wanda_4_9_1_2">
