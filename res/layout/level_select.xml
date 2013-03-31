@@ -2,12 +2,14 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="horizontal"
     android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
-    >
-	<ListView android:id="@+id/android:list"
-          	android:layout_width="fill_parent"
-        	android:layout_height="fill_parent"
-        	android:dividerHeight = "0dp"
-        	android:footerDividersEnabled = "false"
-        	android:headerDividersEnabled = "false"/>
+    android:layout_height="fill_parent">
+
+    <!-- can't find id, but I guess it's cool cuz I can't find it's usage -->
+    <ListView
+        android:id="@+id/android:list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:dividerHeight="0dp"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false" />
 </LinearLayout>
