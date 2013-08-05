@@ -64,7 +64,7 @@ public class AndouKun extends Activity implements SensorEventListener {
 
     // If the version is a negative number, debug features (logging and a debug menu)
     // are enabled.
-    public static final int VERSION = 14;
+    public static final int VERSION = -14;
 
     private GLSurfaceView mGLSurfaceView;
     private Game mGame;
